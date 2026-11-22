@@ -9,7 +9,7 @@ Demo websites built for real businesses. Each demo is a full website, with a vid
 | 01 | Real Estate — Elevate Real Estate (Lebanese homes, villas & chalets) | ✅ Live | [`realestate/`](realestate/) |
 | 02 | Clinic | Coming soon | `clinic/` |
 | 03 | Food | Coming soon | `food/` |
-| 04 | Clothes | Coming soon | `clothes/` |
+| 04 | Clothes — CÈDRE (Beirut fashion boutique) | ✅ Live | [`clothes/`](clothes/) |
 
 ## Live site
 
